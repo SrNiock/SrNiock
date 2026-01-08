@@ -37,24 +37,16 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ### 📂 Proyectos Destacados de DAM
-1. **[Nombre Proyecto 1]**: Aplicación nativa de gestión en Java/Android. 
-2. **[Nombre Proyecto 2]**: API REST desarrollada con Node.js/Python para gestión de inventarios.
-3. **[Nombre Proyecto 3]**: Videojuego simple o App de escritorio en C#.
+// 1. **[Nombre Proyecto 1]**: Aplicación nativa de gestión en Java/Android. 
+
 
 ---
 
 ### 📫 Contacto
 <p align="left">
-<a href="[https://linkedin.com/in/pablo-moreno-ancco]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:morenoancco10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://linkedin.com/in/pablo-moreno-ancco" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a><a href="mailto:morenoancco10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
