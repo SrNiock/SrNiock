@@ -39,17 +39,16 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </p>
----
 
+---
 ###  Proyectos Destacados de DAM
 
  1. **App Rumi**: Aplicación nativa de gestion de Habitos junto con reproductor de musica en Kotlin/Android. 
 
 
----
-
-
+--- 
 ###  Contacto
+
 <p align="left">
 <a href="https://linkedin.com/in/pablo-moreno-ancco" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
