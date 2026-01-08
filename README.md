@@ -54,10 +54,7 @@
 
 ### 📫 Contacto
 <p align="left">
-<a href="[https://linkedin.com/in/[TU_LINKEDIN]](https://www.linkedin.com/in/pablo-moreno-ancco/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:[TU_EMAIL]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="[https://linkedin.com/in/[pablo-moreno-ancco]]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:[morenoancco10@gmail.com]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
-<p align="center"> 
-  <i>"El código es poesía, y yo soy el poeta."</i>
-</p>
