@@ -1,4 +1,4 @@
-# 💻 ¡Hola! Soy [Pablo] | Estudiante de DAM 🚀
+# 💻 ¡Hola! Soy Pablo | Estudiante de DAM 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desarrollador+Multiplataforma;Java+%7C+Kotlin+%7C+Swift;Entusiasta+de+las+Bases+de+Datos;Buscando+nuevos+retos+tech" alt="Typing SVG" />
@@ -54,7 +54,7 @@
 
 ### 📫 Contacto
 <p align="left">
-<a href="[https://linkedin.com/in/[pablo-moreno-ancco]]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:[morenoancco10@gmail.com]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="[https://linkedin.com/in/pablo-moreno-ancco]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:morenoancco10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
