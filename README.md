@@ -1,7 +1,7 @@
 # 💻 ¡Hola! Soy Pablo | Estudiante de DAM 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desarrollador+Multiplataforma;Java+%7C+Kotlin+%7C+Swift;Entusiasta+de+las+Bases+de+Datos;Buscando+nuevos+retos+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desarrollador+Multiplataforma;Java+%7C+Kotlin;Buscando+nuevos+retos+tech" alt="Typing SVG" />
 </div>
 
 ---
