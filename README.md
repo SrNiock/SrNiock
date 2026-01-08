@@ -38,15 +38,16 @@
 ---
 
 ###  Proyectos Destacados de DAM
-// 1. **[Nombre Proyecto 1]**: Aplicación nativa de gestión en Java/Android. 
+// 1. **App Rumi**: Aplicación nativa de gestion de Habitos junto con reproductor de musica en Kotlin/Android. 
 
 
 ---
-
 ###  Contacto
 <p align="left">
 <a href="https://linkedin.com/in/pablo-moreno-ancco" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a><a href="mailto:morenoancco10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</a>
+<a href="mailto:morenoancco10@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 </p>
-
