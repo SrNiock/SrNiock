@@ -44,7 +44,7 @@
 ###  Proyectos Destacados de DAM
 
  1. **App Rumi**: Aplicación nativa de gestion de Habitos junto con reproductor de musica en Kotlin/Android. 
- 2. **BOOKMARK**: Actualmente trabajando, en un "letterbox para libros"
+ 2. **BOOKMARK**: Actualmente trabajando, en un "letterbox para libros"(Proyecto final de DAM)
 
 --- 
 ###  Contacto
